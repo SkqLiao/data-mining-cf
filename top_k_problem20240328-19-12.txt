@@ -1,0 +1,23 @@
+handles: tourist, cnnfls_csy, A.K.E.E., Suiseiseki, fantasy, Sol1, hehezhou, djq_fpc, smarthehe, jiangly, qazswedx2, QwQcOrZ, yzc2005, wlzhouzhuan, Rainbow_qwq, ix35, feecle6418, jovialll, Little09, Laurie, elycx, teacherhsy, xiaoziyaooo
+mininum problem rating: 1500
+top 20 problems:
+1684F: rating=2600, count=11
+1804E: rating=2400, count=10
+1684G: rating=2800, count=10
+1684E: rating=2100, count=10
+1684D: rating=1700, count=10
+1515E: rating=2200, count=10
+1495B: rating=1900, count=10
+526F: rating=3000, count=10
+516D: rating=2800, count=10
+1804D: rating=2000, count=9
+1804C: rating=1500, count=9
+1667C: rating=2400, count=9
+1656F: rating=2600, count=9
+1628D2: rating=2400, count=9
+1615C: rating=1600, count=9
+1609E: rating=2400, count=9
+1553F: rating=2300, count=9
+1553D: rating=1500, count=9
+1534E: rating=2300, count=9
+1515F: rating=2600, count=9
