@@ -1,5 +1,9 @@
 # CF Statistics for Data Mining
 
+## 进度
+
+- 2024/03/28: `src/fetch` 获取Tag、Problem、Contest数据。
+
 ## 功能 1
 
 Codeforces 指定用户集合过题数目Top K（可以设置筛选题目的rating下限）
