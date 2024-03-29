@@ -3,3 +3,6 @@ data/*.json
 !data/tourist.json
 
 __pycache__/
+
+2024-数据挖掘-小组.md
+.DS_Store
